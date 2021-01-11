@@ -9,7 +9,7 @@
   <div class="p-8">
     <div class="uppercase tracking-wide text-sm text-indigo-500 font-semibold">Case study</div>
     <a href="#" class="block mt-1 text-lg leading-tight font-medium text-black hover:underline">Finding customers for your new business</a>
-    <p class="mt-2 text-gray-500">G
+    <p class="mt-2 text-gray-500">
   </div>
 </template>
 
